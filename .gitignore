@@ -1,0 +1,5 @@
+# Not part of the published site
+.claude/
+.DS_Store
+project-*.svg
+cover.svg
